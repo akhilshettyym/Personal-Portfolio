@@ -45,5 +45,9 @@ If you want to contact me you can reach me at [Twitter](https://www.twitter.com/
 
 ## License
 
+<<<<<<< HEAD
 This project is **free to use** and does not contains any license.
 >>>>>>> 3d84876 (add README)
+=======
+MIT
+>>>>>>> c7d6cd8 (Update README.md)
